@@ -1,0 +1,2 @@
+First and start page of project is index.php
+before start create database name getmedb in the database OR edit the connection.php file accordingly
