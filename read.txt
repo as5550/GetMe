@@ -1,2 +1,8 @@
 First and start page of project is index.php
-before start create database name getmedb in the database OR edit the connection.php file accordingly
+before start create database name "getmedb" in the database OR edit the connection.php file accordingly
+database contain a table "board"
+    it's attributes are
+        id primary-key, auto increment, int
+        username  varchar
+        notr  int
+        level varchar
